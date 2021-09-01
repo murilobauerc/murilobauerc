@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Software Engineer focused on building software solutions for Dell products and most of the time using Java, Spring Boot
+- 🔭 I’m currently working as a Software Engineer focused on building software solutions for Dell products and most of the time using Java, Spring Boot and CI/CD.
 - 🌱 I’m currently learning Message Broker.
 - 👯 I’m looking to collaborate on building products using Java and Spring Boot.
 - 🤔 I’m looking for help with Java, Spring Boot, Continuous Delivery, Monitoring, Microservices.
