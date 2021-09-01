@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**murilobauerc/murilobauerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -11,4 +10,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Java, Spring Boot, Continuous Delivery, Monitoring, Microservices.
 - 📫 How to reach me: I'm on [https://www.linkedin.com/in/murilobauer/](LinkedIn). Or you can reach me out through [e-mail](mailto:murilobauerc@gmail.com)
 - 😄 Pronouns: he/him
--->
